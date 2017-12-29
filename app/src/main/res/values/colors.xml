@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E43F3F</color>
+    <color name="colorPrimaryDark">#E12929</color>
+    <color name="colorAccent">#CC1D1D</color>
+
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00ffffff</color>
+
+    <color name="TitleColor">#000</color>
+    <color name="HeadingColor">#000</color>
+    <color name="cardViewBackground">@android:color/white</color>
+
+    <color name="Black">#000</color>
+
+
+
+</resources>
